@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Maria Eduarda e curso Análise e desenvolvimento de Sistemas no Centro universitário Facens! Atualmente estou no segundo semestre em busca de novas oportunidades!<br>No momento estou estudando python para data science!</h2>
+<h2 align="left">Olá👋! Meu nome é Maria Eduarda e curso Análise e desenvolvimento de Sistemas no Centro universitário Facens! Atualmente estou no quinto semestre em busca de novas oportunidades!<br>No momento estou estudando python para data science!</h2>
 
 ###
 
